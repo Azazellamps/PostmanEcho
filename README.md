@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4q959j9d470y394d?svg=true)](https://ci.appveyor.com/project/Azazellamps/postmanecho)
